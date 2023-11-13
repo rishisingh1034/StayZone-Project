@@ -18,5 +18,5 @@ StayZone is a mobile application designed to address the challenges students fac
 
 5) GitHub / Bitbucket / Zip of Code
 
-- The code for the StayZone project can be found on [GitHub]().
+- The code for the StayZone project can be found on [GitHub](https://github.com/rishisingh1034/StayZone-Project/tree/main).
 
