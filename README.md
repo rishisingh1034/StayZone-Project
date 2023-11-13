@@ -7,14 +7,14 @@ Students coming to a new city face challenges in finding suitable accommodations
 
 StayZone - Simplifying Student Accommodation
 
-StayZone is a mobile application designed to address the challenges students face when searching for lodges, hostels, or PGs in a new city. The app provides an intuitive interface for users to search, view details, and securely book accommodations based on location, price, and amenities. Key features include a secure payment gateway, a rating and review system for transparency, efficient in-app messaging, and enticing discounts or loyalty programs for regular users.
+StayZone is a Web application designed to address the challenges students face when searching for lodges, hostels, or PGs in a new city. The app provides an intuitive interface for users to search, view details, and securely book accommodations based on location, price, and amenities. Key features include a secure payment gateway, a rating and review system for transparency, efficient in-app messaging, and enticing discounts or loyalty programs for regular users.
 
 4) Choice of Technology
 
-- Frontend: React.js  
-- Backend: Node.js with Express  
-- Database: MongoDB  
-- Other Technologies: JSON Web Tokens (JWT) for authentication, Socket.IO for real-time messaging.
+- Frontend: HTML,Reactjs(planned to use),TailwindCSS
+- Backend: Node.js with Express (planned to use)
+- Database: MongoDB (planned to use) 
+- Other Technologies: JSON Web Tokens (JWT) for authentication, Socket.IO for real-time messaging.(planned to use)
 
 5) GitHub / Bitbucket / Zip of Code
 
