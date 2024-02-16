@@ -1,5 +1,5 @@
 # StayZone-Project
- A Website UI to book lodges and apartments.
- I've developed this Web Application using TailwindCSS Which is a framework of CSS.
-We haven't build backend and database of our website till now we've created an UI for our idea.
-We also have an idea to build backend of our web App using nodejs and mongoDB as our database.
+A Web UI build using TailwindCSS which build with an idea to Book Hotels and Lodges without acutal Visiting the rooms.
+
+- The code for the StayZone project can be found on [GitHub](https://github.com/rishisingh1034/StayZone-Project/tree/main).
+
